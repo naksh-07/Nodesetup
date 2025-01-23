@@ -1,0 +1,12 @@
+sudo apt update && sudo apt upgrade -y
+
+chmod +x titan.sh && ./titan.sh
+
+chmod +x rivalz.sh && ./rivalz.sh
+
+chmod +x blockmesh.sh && ./blockmesh.sh
+
+chmod +x games.sh && ./games.sh
+
+
+
